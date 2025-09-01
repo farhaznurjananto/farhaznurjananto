@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🎓 College Student | 💻 Information Technology
 
-I am a high school graduate majoring in Mathematics and Natural Sciences. Now I'm studying at the University majoring in Information Technology.  
-I am a disciplined, responsible individual, a hard worker, and able to work collaboratively in a team.
+Information Technology graduate specializing in web and mobile development. Skilled in creating responsive, user-friendly websites and cross-platform mobile applications while applying good UI/UX practices. Passionate about exploring new technologies and continuously improving technical expertise. Currently seeking opportunities as a Web or Mobile Developer to leverage my skills, contribute to impactful digital solutions, and grow as a professional in the tech industry.
 
 * 🌍  I'm based in **Probolinggo, Jawa Timur, Indonesia**
 * ✉️  You can contact me at **[farhaznurjananto052@gmail.com](mailto:farhaznurjananto052@gmail.com)**
